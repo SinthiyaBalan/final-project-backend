@@ -145,7 +145,26 @@
         "pics": ["https://ik.imagekit.io/onziiwamr/Gift_box/giftbox2.webp?updatedAt=1686834127002","https://ik.imagekit.io/onziiwamr/Gift_box/giftbox2.1.webp?updatedAt=1686834126850","https://ik.imagekit.io/onziiwamr/Gift_box/giftbox2.2.webp?updatedAt=1686834126799","https://ik.imagekit.io/onziiwamr/Gift_box/giftbox2.3.webp?updatedAt=1686834126881"]
       }
     ],
-    "categories": ["Baby Gifts","Stroller","Furniture","Baby Toys"],
+    "categories": [
+  
+      {
+        "id": 1,
+        "name": "Baby Gifts",
+        "pic": "https://ik.imagekit.io/onziiwamr/homepage_images/homepage_image1.avif?updatedAt=1687250149013"
+      }, {
+        "id": 2,
+        "name": "Stroller",
+        "pic": "https://ik.imagekit.io/onziiwamr/homepage_images/homepage_image5.avif?updatedAt=1687254626966"
+      }, {
+        "id": 3,
+        "name": "Furniture",
+        "pic": "https://ik.imagekit.io/onziiwamr/homepage_images/homepage_image3.avif?updatedAt=1687252649449"
+      }, {
+        "id": 4,
+        "name": "Baby Toys",
+        "pic": "https://ik.imagekit.io/onziiwamr/homepage_images/homepage_image4.avif?updatedAt=1687252911117"
+      }
+  ],
     "brands": ["Boho","TINY LOVE","FAWN","JOIE","FAWN","BabyWalz","BabyBay","FILIBABBA","SMALL FOOT","EICHHORN","Chicco"],
     "payments": ["paypal","Credit card", "Debit card"],
     "orders": [
